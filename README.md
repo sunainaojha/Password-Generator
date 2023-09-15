@@ -12,7 +12,7 @@ We were given a starter code and i have added some code for the password generat
 ## Links 
 
 
-[live UrL]()\
+[live UrL](https://sunainaojha.github.io/Password-Generator/)\
 [Github](https://github.com/sunainaojha/Password-Generator)
 
 
