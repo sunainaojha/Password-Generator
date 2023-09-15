@@ -18,7 +18,7 @@ We were given a starter code and i have added some code for the password generat
 
 
 ## Screenshots
-[projectpic.1](./assets/img-1.png)
-[projectpic.2](./assets/img-2.png)
-[projectpic.3](./assets/img-3.png)
-[projectpic.4](./assets/img-4.png)
+![projectpic.1](./assets/img-1.png)
+![projectpic.2](./assets/img-2.png)
+![projectpic.3](./assets/img-3.png)
+![projectpic.4](./assets/img-4.png)
